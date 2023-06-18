@@ -1,0 +1,31 @@
+body{
+	padding-top: 70px;
+}
+
+.thumbnail img{
+	width: 100%;
+}
+
+.thumbnail .caption-full{
+	padding: 9px;
+}
+
+.container .new-form{
+	width: 40%;
+	margin: auto;
+}
+
+.edit-form{
+	display: inline;
+	margin-left: 1.5em;
+}
+
+.visible{
+	display: none;
+}
+.comments .row{
+	padding-bottom: 1.5em;
+}
+form textarea{
+	width: 100%;
+}
